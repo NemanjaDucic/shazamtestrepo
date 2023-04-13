@@ -1,0 +1,5 @@
+package com.example.myapplication.helpers
+
+object Constants {
+    const val token = "eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiIsImtpZCI6IjQyODQ0MzIzTUsifQ.eyJleHAiOjE2OTE1MjAwMjQsImlzcyI6IjVCU05ZWVlINEsiLCJ0eXAiOiJKV1QifQ.GJrFb0Y0jfdosQz31EO31yuzQlh-tcIlZfsVX0Dm03c8-U60p7xzbNQtAoB81ep6SCZYscVdYUNamKCjdWPMOg"
+}
